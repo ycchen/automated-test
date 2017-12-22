@@ -1,0 +1,90 @@
+class AdminPage
+  include PageObject
+  link(:manage_users, :id => "manageUsersNavLink")
+  text_field(:user_id, :id => "userId")
+  link(:find_user, :id => "findUserbtn")
+  link(:user_id_first_link, :id => "userid_list_100000")
+  link(:manage_adv_search, :class => "accordion-toggle")
+  text_field(:adv_fname, :id => "advfname")
+  text_field(:adv_lname, :id => "advlname")
+  select_list(:off_div, :id => "advofcdiv")
+  text_field(:firm_org, :id => "advfirmorg")
+  select_list(:int_ext, :id => "advintext")
+  select_list(:acct_status, :id => "advaccstatus")
+  link(:user_link, :name => "userid_list")
+
+  link(:second_link, :id => "userid_list_6568")
+  #profile tab
+  text_field(:profile_fn, :id => "firstName")
+  text_field(:profile_mn, :id => "middleName")
+  text_field(:profile_ln, :id => "lastName")
+  select_list(:profile_firm, :id => "firmorg")
+  select_list(:profile_off, :id => "ofcdiv")
+  text_field(:profile_address1, :id => "address1")
+  text_field(:profile_address2, :id => "address2")
+  text_field(:profile_city, :id => "city")
+  select_list(:profile_state, :id => "state")
+  text_field(:profile_zip, :id => "zipCode")
+  select_list(:profile_country, :id => "cityregion")
+  text_field(:profile_telephone, :id => "telephone")
+  text_field(:profile_fax, :id => "fax")
+  text_field(:profile_email, :id => "emailAddress")
+  button(:save, :id => "userAccSavebtn")
+  button(:reset, :id => "tabResetbtn")
+
+  #account tab
+  link(:account_tab, :id => "accountTabId")
+  radio_button(:acc_radio_button, :id => "activeRadio")
+  radio(:disable, :id=>"disableRadio")
+  #button(:save, :id=> "account_save")
+  #button(:rest, :id => "userResetbtn")
+
+  #authority tab
+  link(:authority_tab, :id => "authoritiesTabId")
+  select_list(:authorities, :id => "authavailable")
+
+  link(:add_auth, :id => "addauth")
+  select_list(:groups, :id => "groupavailable")
+  link(:add_grp, :id => "addgroup")
+  select_list(:deselect_auth, :id => "authselected")
+  link(:remove_auth, :id => "removeauth")
+  select_list(:deselect_groups, :id => "groupselected")
+  link(:remove_grp, :id => "removegroup")
+
+  #investigation assignment
+  link(:inv_assign, :id => "invAssignTabId")
+  button(:add_inv, :id => "addinvestigationbtn")
+  select_list(:inv_status, :id => "invStatus")
+  select_list(:inv_phase, :id => "invPhase")
+  select_list(:inv_type, :id => "invType")
+  text_field(:inv_num, :id => "invNumber")
+  text_field(:inv_title, :id => "invTitle")
+ # button(:find_inv1, :value => "Find Investigation")
+  button(:find_inv, :id => "findInvestigationbtn")
+  link(:inv_first_result, :name => "investigation_list")
+  link(:inv_first_result1, :id => "2150")
+  link(:inv_first_result1, :id => "3057")
+  link(:inv_first_result2, :id => "2150")
+  link(:inv_first_result_manage_inv, :name => "investigation_list")
+  # link(:sec_level_pop_over, :name => "investigation_list")
+  select_list(:admin_inv_phase, :id => "securitylevelid")
+  button(:admin_save, :class => "btn-success invsecurity")
+  button(:closex, :id => "closex")
+  button(:save_inv_assignment, :id => "userAccSavebtn")
+
+
+# Reindex Document
+  link(:admin, :id => "adminMenu")
+  link(:reindex_doc, :id => "reindexNavLink")
+  text_field(:reindex_doc_id, :class => "form-control")
+  text_field(:reindex_inv_no, :name => "investigationNumber")
+  select_list(:reindex_inv_phase, :name => "investigationPhaseId")
+  button(:request_reindex_doc, :id => "submitReindexDocument")
+  button(:request_reindex_inv, :id => "submitReindexInvestigation")
+
+#   User access report
+  link(:user_access_report_link, :id => "user_access_rpt_100000")
+  select_list(:user_access_sort_prop, :name => "resultPrefSortProp")
+  select_list(:user_access_sort_dir, :name => "resultPrefSortDir")
+  select_list(:user_access_record_per_page, :name => "resultPrefPageSize")
+end

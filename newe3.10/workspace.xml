@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="9547728f-488e-49d3-8620-718459690e7d" name="Default" comment="" />
+    <ignored path="New_Edis_Test_3.10.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Add_investigation__New_Edis_Test_3_10.coverage" NAME="Add investigation: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412803920916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_profile_page_information__New_Edis_Test_3_10__1_.coverage" NAME="save profile page information: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1395864561149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_search_an_Investigation__New_Edis_Test_3_10__4_.coverage" NAME="To search an Investigation: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1396558512990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_submitter_data__New_Edis_Test_3_10.coverage" NAME="Search with keyword and submitter data: New_Edis_Test_3.10 Coverage Results" MODIFIED="1403028128897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_profile_page_information__New_Edis_Test_3_10__3_.coverage" NAME="save profile page information: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1395261848971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Advanced_search_with_keywords__New_Edis_Test_3_10.coverage" NAME="Advanced search with keywords: New_Edis_Test_3.10 Coverage Results" MODIFIED="1396897016102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation_when_inv_type_is_byrd_amendment__New_Edis_Test_3_10__3_.coverage" NAME="Create investigation when inv type is byrd amendment: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1412964627016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_investigation_dashboard__New_Edis_Test_3_10__3_.coverage" NAME="Navigate to investigation dashboard: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1411618382957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Advanced_search_with_keywords__New_Edis_Test_3_10__5_.coverage" NAME="Advanced search with keywords: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1396902877998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_verify_user_details_profile__New_Edis_Test_3_10__1_.coverage" NAME="To verify user details-profile: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1395253934322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@apo_investigation_report__New_Edis_Test_3_10.coverage" NAME="apo_investigation_report: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412702384894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_action_memorandum_control_number_document_index_data_section__New_Edis_Test_3_10.coverage" NAME="Search with keyword and action memorandum control number document index data section: New_Edis_Test_3.10 Coverage Results" MODIFIED="1402950868704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_current_search__New_Edis_Test_3_10__3_.coverage" NAME="save current search: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1398285680822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Register_an_user_by_providing_required_information__New_Edis_Test_3_10__1_.coverage" NAME="Register an user by providing required information: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1397248071871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_action__in_document_index_data_section__New_Edis_Test_3_10__1_.coverage" NAME="Search with keyword and action  in document index data section: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1399931848553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_by_selecting_all_options__New_Edis_Test_3_10__1_.coverage" NAME="Generate Document Filing Report by selecting all options: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1412702585433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@quick_search__New_Edis_Test_3_10__4_.coverage" NAME="quick search: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1399040901440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validate_to_unselect_user_authorities_and_groups__New_Edis_Test_3_10.coverage" NAME="validate to unselect user authorities and groups: New_Edis_Test_3.10 Coverage Results" MODIFIED="1395769649647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_change_password_page__New_Edis_Test_3_10.coverage" NAME="Navigate to change password page: New_Edis_Test_3.10 Coverage Results" MODIFIED="1400163467631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_when_report_is_required_on_or_after_particular_date__New_Edis_Test_3_10.coverage" NAME="Generate Document Filing Report when report is required on or after particular date: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411758934983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@I_navigate_to_one_of_the_saved_search__New_Edis_Test_3_10__1_.coverage" NAME="I navigate to one of the saved search: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1398286497488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@investigation_search__New_Edis_Test_3_10.coverage" NAME="investigation_search: New_Edis_Test_3.10 Coverage Results" MODIFIED="1413559808551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validating_going_back_to_find_investigation_page_from_results_page__New_Edis_Test_3_10__2_.coverage" NAME="validating going back to find investigation page from results page: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1412953338691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_profile_page_information_make_sure_it_contains_that_information__New_Edis_Test_3_10__2_.coverage" NAME="save profile page information make sure it contains that information: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1395868214146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_inactive_cancelled_investigation_in_investigation_dashboard__New_Edis_Test_3_10__2_.coverage" NAME="Navigate to inactive/cancelled investigation in investigation dashboard: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1411698153546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_current_search__New_Edis_Test_3_10__4_.coverage" NAME="save current search: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1398283419222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validate_to_unselect_user_authorities_and_groups__New_Edis_Test_3_10__1_.coverage" NAME="validate to unselect user authorities and groups: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1395769682344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@user_preferences__New_Edis_Test_3_10.coverage" NAME="user_preferences: New_Edis_Test_3.10 Coverage Results" MODIFIED="1420494681129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3653_Navigate_to_document_workflow__New_Edis_Test_3_10__1_.coverage" NAME="3653 Navigate to document workflow: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1410920648413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_date__New_Edis_Test_3_10__1_.coverage" NAME="Search with keyword and date: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1403030558068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation_when_inv_type_is_byrd_amendment__New_Edis_Test_3_10__4_.coverage" NAME="Create investigation when inv type is byrd amendment: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1412965285510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_save_investigation_info_additional_metadata__assignments__disposition__audit_tool__New_Edis_Test_3_10__4_.coverage" NAME="To save investigation info,additional metadata, assignments, disposition, audit tool: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1413410889981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validate_account_status__New_Edis_Test_3_10.coverage" NAME="validate account status: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412019642606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_date_data__New_Edis_Test_3_10.coverage" NAME="Search with keyword and date data: New_Edis_Test_3.10 Coverage Results" MODIFIED="1397079474620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@create_investigation__New_Edis_Test_3_10.coverage" NAME="create_investigation: New_Edis_Test_3.10 Coverage Results" MODIFIED="1421180435270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@I_navigate_to_one_of_the_saved_search__New_Edis_Test_3_10__3_.coverage" NAME="I navigate to one of the saved search: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1398286225936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_search_an_Investigation__New_Edis_Test_3_10__3_.coverage" NAME="To search an Investigation: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1412013723710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@quick_search__New_Edis_Test_3_10__5_.coverage" NAME="quick search: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1398373279344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_search_an_Investigation__New_Edis_Test_3_10__1_.coverage" NAME="To search an Investigation: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1412013092294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Advanced_search_with_keywords__New_Edis_Test_3_10__3_.coverage" NAME="Advanced search with keywords: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1396903425451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_document_data__New_Edis_Test_3_10.coverage" NAME="Search with keyword and document data: New_Edis_Test_3.10 Coverage Results" MODIFIED="1413574406449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@investigation_assignment__New_Edis_Test_3_10.coverage" NAME="investigation_assignment: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412864568099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_particular_case_manager__New_Edis_Test_3_10__5_.coverage" NAME="Navigate to particular case manager: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1411702933198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_generate_a_processed_report__New_Edis_Test_3_10.coverage" NAME="To generate a processed report: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411881898778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_document_filling_report__New_Edis_Test_3_10.coverage" NAME="Navigate to document filling report: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411753823186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@manage_user_advanced_search__New_Edis_Test_3_10.coverage" NAME="manage user advanced search: New_Edis_Test_3.10 Coverage Results" MODIFIED="1395250451181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3654_validating_the_count__New_Edis_Test_3_10__3_.coverage" NAME="3654 validating the count: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1411703908376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@manage_user_advanced_search__New_Edis_Test_3_10__1_.coverage" NAME="manage user advanced search: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1395248049168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@submission_page__New_Edis_Test_3_10.coverage" NAME="submission_page: New_Edis_Test_3.10 Coverage Results" MODIFIED="1420581095094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_profile_page_information_make_sure_it_contains_that_information__New_Edis_Test_3_10__3_.coverage" NAME="save profile page information make sure it contains that information: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1395864651917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Advanced_search_with_keywords__New_Edis_Test_3_10__4_.coverage" NAME="Advanced search with keywords: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1396906423036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@authorities_tab__New_Edis_Test_3_10.coverage" NAME="authorities_tab: New_Edis_Test_3.10 Coverage Results" MODIFIED="1420060021662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_verify_user_details_profile__New_Edis_Test_3_10.coverage" NAME="To verify user details-profile: New_Edis_Test_3.10 Coverage Results" MODIFIED="1395250532819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_submitter_data__New_Edis_Test_3_10__2_.coverage" NAME="Search with keyword and submitter data: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1403029373879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_by_selecting_all_options__New_Edis_Test_3_10__5_.coverage" NAME="Generate Document Filing Report by selecting all options: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1411875842943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Request_reindex_by_investigation__New_Edis_Test_3_10.coverage" NAME="Request reindex by investigation: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412046798704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_action_cbi_number_in_document_index_data_section__New_Edis_Test_3_10.coverage" NAME="Search with keyword and action cbi number in document index data section: New_Edis_Test_3.10 Coverage Results" MODIFIED="1402950733257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_inactive_cancelled_investigation_in_investigation_dashboard__New_Edis_Test_3_10__1_.coverage" NAME="Navigate to inactive/cancelled investigation in investigation dashboard: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1411698113313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@reindex_document__New_Edis_Test_3_10.coverage" NAME="reindex_document: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412048005469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation_when_inv_type_is_import_injury__New_Edis_Test_3_10.coverage" NAME="Create investigation when inv type is import injury: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412971887618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_reset_a_processed_report__New_Edis_Test_3_10__1_.coverage" NAME="To reset a processed report: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1411882511999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@I_navigate_to_one_of_the_saved_search__New_Edis_Test_3_10__5_.coverage" NAME="I navigate to one of the saved search: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1398286434232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_document_index_data__New_Edis_Test_3_10__3_.coverage" NAME="Search with keyword and document index data: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1399917780758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@I_navigate_to_one_of_the_saved_search__New_Edis_Test_3_10__4_.coverage" NAME="I navigate to one of the saved search: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1398286409600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_document_data__New_Edis_Test_3_10__2_.coverage" NAME="Search with keyword and document data: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1413571093028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_publication_number_in_document_index_data_section__New_Edis_Test_3_10.coverage" NAME="Search with keyword and publication number in document index data section: New_Edis_Test_3.10 Coverage Results" MODIFIED="1402950834098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_investigation_dashboard__New_Edis_Test_3_10__5_.coverage" NAME="Navigate to investigation dashboard: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1411620857249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Register_page__New_Edis_Test_3_10__2_.coverage" NAME="Register page: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1397243620064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_document_data__New_Edis_Test_3_10__4_.coverage" NAME="Search with keyword and document data: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1413571724048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_document_index_data__New_Edis_Test_3_10.coverage" NAME="Search with keyword and document index data: New_Edis_Test_3.10 Coverage Results" MODIFIED="1399914091211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_inactive_cancelled_investigation_in_investigation_dashboard__New_Edis_Test_3_10.coverage" NAME="Navigate to inactive/cancelled investigation in investigation dashboard: New_Edis_Test_3.10 Coverage Results" MODIFIED="1413559421975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3654_validating_the_count__New_Edis_Test_3_10__2_.coverage" NAME="3654 validating the count: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1411703470527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validate_selection_of_user_authorities_and_groups__New_Edis_Test_3_10__1_.coverage" NAME="validate selection of user authorities and groups: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1395767484982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate__New_Edis_Test_3_10.coverage" NAME="Generate: New_Edis_Test_3.10 Coverage Results" MODIFIED="1420061592195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation_when_inv_type_is_import_injury__New_Edis_Test_3_10__1_.coverage" NAME="Create investigation when inv type is import injury: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1412972943385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation_when_inv_type_is_byrd_amendment__New_Edis_Test_3_10__5_.coverage" NAME="Create investigation when inv type is byrd amendment: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1412965770008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_launch_EDIS_home_page__New_Edis_Test_3_10.coverage" NAME="To launch EDIS home page: New_Edis_Test_3.10 Coverage Results" MODIFIED="1398110556666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@document_filing_report__New_Edis_Test_3_10.coverage" NAME="document_filing_report: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411757775262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_particular_case_manager__New_Edis_Test_3_10__4_.coverage" NAME="Navigate to particular case manager: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1411702730116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_action_cbi_number_in_document_index_data_section__New_Edis_Test_3_10__1_.coverage" NAME="Search with keyword and action cbi number in document index data section: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1399928391334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_investigation_dashboard__New_Edis_Test_3_10.coverage" NAME="Navigate to investigation dashboard: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411621300292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validate_reset_of_user_authorities_and_groups__New_Edis_Test_3_10.coverage" NAME="validate reset of user authorities and groups: New_Edis_Test_3.10 Coverage Results" MODIFIED="1395411209079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_save_investigation_info_additional_metadata__assignments__disposition__audit_tool__New_Edis_Test_3_10.coverage" NAME="To save investigation info,additional metadata, assignments, disposition, audit tool: New_Edis_Test_3.10 Coverage Results" MODIFIED="1413409004412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3653_Navigate_to_document_workflow__New_Edis_Test_3_10__3_.coverage" NAME="3653 Navigate to document workflow: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1410921820500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_when_official_received_date_is_known______Issue_with_Range_selector_talk_to_JASON__New_Edis_Test_3_10.coverage" NAME="Generate Document Filing Report when official received date is known----- Issue with Range selector talk to JASON: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411759012448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@edis_home_page__New_Edis_Test_3_10.coverage" NAME="edis_home_page: New_Edis_Test_3.10 Coverage Results" MODIFIED="1420581398634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Add_investigation__New_Edis_Test_3_10__2_.coverage" NAME="Add investigation: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1412800572151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_investigation_dashboard__New_Edis_Test_3_10__2_.coverage" NAME="Navigate to investigation dashboard: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1411654823581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@document_workflow__New_Edis_Test_3_10.coverage" NAME="document_workflow: New_Edis_Test_3.10 Coverage Results" MODIFIED="1410920529755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_inactive_cancelled_investigation_in_investigation_dashboard__New_Edis_Test_3_10__3_.coverage" NAME="Navigate to inactive/cancelled investigation in investigation dashboard: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1411698191565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation_when_inv_type_is_byrd_amendment__New_Edis_Test_3_10.coverage" NAME="Create investigation when inv type is byrd amendment: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412966191120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_document_data__New_Edis_Test_3_10__1_.coverage" NAME="Search with keyword and document data: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1413574741730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Register_an_user_by_providing_required_information__New_Edis_Test_3_10.coverage" NAME="Register an user by providing required information: New_Edis_Test_3.10 Coverage Results" MODIFIED="1397246633460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_particular_case_manager__New_Edis_Test_3_10.coverage" NAME="Navigate to particular case manager: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411700472396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validating_going_back_to_home_page_from_results_page__New_Edis_Test_3_10__1_.coverage" NAME="validating going back to home page from results page: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1412953069377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_by_selecting_all_options__New_Edis_Test_3_10__3_.coverage" NAME="Generate Document Filing Report by selecting all options: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1411875600683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validate_selection_of_user_authorities_and_groups__New_Edis_Test_3_10__5_.coverage" NAME="validate selection of user authorities and groups: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1395410521120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_when_report_is_required_for_particular_date__New_Edis_Test_3_10__2_.coverage" NAME="Generate Document Filing Report when report is required for particular date: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1411758768092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_current_search__New_Edis_Test_3_10__1_.coverage" NAME="save current search: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1400700448911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_profile_page_information__New_Edis_Test_3_10.coverage" NAME="save profile page information: New_Edis_Test_3.10 Coverage Results" MODIFIED="1395864368034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_by_selecting_all_options__New_Edis_Test_3_10__2_.coverage" NAME="Generate Document Filing Report by selecting all options: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1411872975216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_launch_EDIS_home_page__New_Edis_Test_3_10__1_.coverage" NAME="To launch EDIS home page: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1398110748727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_profile_page_information_make_sure_it_contains_that_information__New_Edis_Test_3_10.coverage" NAME="save profile page information make sure it contains that information: New_Edis_Test_3.10 Coverage Results" MODIFIED="1395864866116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_user_preferences_page__New_Edis_Test_3_10__1_.coverage" NAME="Navigate to user preferences page: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1400102275252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validating_going_back_to_find_investigation_page_from_results_page__New_Edis_Test_3_10__3_.coverage" NAME="validating going back to find investigation page from results page: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1412953457123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_current_search__New_Edis_Test_3_10.coverage" NAME="save_current_search: New_Edis_Test_3.10 Coverage Results" MODIFIED="1413559914094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_active_preinstitution_investigation_in_investigation_dashboard__New_Edis_Test_3_10.coverage" NAME="Navigate to active/preinstitution investigation in investigation dashboard: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411752888885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_profile_page_information_make_sure_it_contains_that_information__New_Edis_Test_3_10__1_.coverage" NAME="save profile page information make sure it contains that information: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1395865749037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keywords_and_investigation_data__New_Edis_Test_3_10__2_.coverage" NAME="Search with keywords and investigation data: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1413570290283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3653_Navigate_to_document_workflow__New_Edis_Test_3_10.coverage" NAME="3653 Navigate to document workflow: New_Edis_Test_3.10 Coverage Results" MODIFIED="1410963826281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keywords_and_investigation_data__New_Edis_Test_3_10__3_.coverage" NAME="Search with keywords and investigation data: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1401998621488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation__New_Edis_Test_3_10__2_.coverage" NAME="Create investigation: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1412954505288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_date__New_Edis_Test_3_10.coverage" NAME="Search with keyword and date: New_Edis_Test_3.10 Coverage Results" MODIFIED="1403030478436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@manage_user_advanced_search__New_Edis_Test_3_10__4_.coverage" NAME="manage user advanced search: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1395250192264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_submitter_data__New_Edis_Test_3_10__3_.coverage" NAME="Search with keyword and submitter data: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1403029590178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_submitter_data__New_Edis_Test_3_10__1_.coverage" NAME="Search with keyword and submitter data: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1403028332395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_save_investigation_info_additional_metadata__assignments__disposition__audit_tool__New_Edis_Test_3_10__1_.coverage" NAME="To save investigation info,additional metadata, assignments, disposition, audit tool: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1413409460028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validate_selection_of_user_authorities_and_groups__New_Edis_Test_3_10__3_.coverage" NAME="validate selection of user authorities and groups: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1395410859858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keywords_and_investigation_data__New_Edis_Test_3_10__4_.coverage" NAME="Search with keywords and investigation data: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1398190500610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_when_report_is_required_on_or_before_particular_date__New_Edis_Test_3_10.coverage" NAME="Generate Document Filing Report when report is required on or before particular date: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411759189293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report__New_Edis_Test_3_10.coverage" NAME="Generate Document Filing Report: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411757739247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Register_page__New_Edis_Test_3_10__1_.coverage" NAME="Register page: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1397240025694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validate_selection_of_user_authorities_and_groups__New_Edis_Test_3_10__4_.coverage" NAME="validate selection of user authorities and groups: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1395411059513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_document_index_data__New_Edis_Test_3_10__2_.coverage" NAME="Search with keyword and document index data: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1399918044888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keywords_and_investigation_data__New_Edis_Test_3_10__5_.coverage" NAME="Search with keywords and investigation data: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1398197423822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3654_Navigate_to_document_workflow_Case_Manager_Dashboard_UI__New_Edis_Test_3_10.coverage" NAME="3654 Navigate to document workflow Case Manager Dashboard UI: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411752327161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_investigation_dashboard__New_Edis_Test_3_10__4_.coverage" NAME="Navigate to investigation dashboard: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1411620771337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@quick_search__New_Edis_Test_3_10__2_.coverage" NAME="quick search: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1399040815900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_save_investigation_info_additional_metadata__assignments__disposition__audit_tool__New_Edis_Test_3_10__3_.coverage" NAME="To save investigation info,additional metadata, assignments, disposition, audit tool: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1413410414001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_particular_case_manager__New_Edis_Test_3_10__1_.coverage" NAME="Navigate to particular case manager: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1411700879322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@manage_investigations__New_Edis_Test_3_10.coverage" NAME="manage_investigations: New_Edis_Test_3.10 Coverage Results" MODIFIED="1413559254022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_reset_a_processed_report__New_Edis_Test_3_10.coverage" NAME="To reset a processed report: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411882252163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3653_Navigate_to_document_workflow__New_Edis_Test_3_10__4_.coverage" NAME="3653 Navigate to document workflow: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1410922022778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Request_reindex_by_document_id__New_Edis_Test_3_10.coverage" NAME="Request reindex by document id: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412042728985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_action_action_request_number_document_index_data_section__New_Edis_Test_3_10.coverage" NAME="Search with keyword and action action request number document index data section: New_Edis_Test_3.10 Coverage Results" MODIFIED="1403025654427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@profile_tab__New_Edis_Test_3_10.coverage" NAME="profile_tab: New_Edis_Test_3.10 Coverage Results" MODIFIED="1395263254472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Add_investigation__New_Edis_Test_3_10__1_.coverage" NAME="Add investigation: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1412800053190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_action_jacket_control_number_in_document_index_data_section__New_Edis_Test_3_10.coverage" NAME="Search with keyword and action jacket control number in document index data section: New_Edis_Test_3.10 Coverage Results" MODIFIED="1413574753753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@manage_user_advanced_search__New_Edis_Test_3_10__3_.coverage" NAME="manage user advanced search: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1395250018020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_current_search__New_Edis_Test_3_10__2_.coverage" NAME="save current search: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1400701459900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_action_jacket_control_number_in_document_index_data_section__New_Edis_Test_3_10__1_.coverage" NAME="Search with keyword and action jacket control number in document index data section: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1413576057335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_inactive_cancelled_investigation_in_investigation_dashboard__New_Edis_Test_3_10__4_.coverage" NAME="Navigate to inactive/cancelled investigation in investigation dashboard: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1411699023709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_by_selecting_all_options__New_Edis_Test_3_10__4_.coverage" NAME="Generate Document Filing Report by selecting all options: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1411875750310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_document_index_data__New_Edis_Test_3_10__1_.coverage" NAME="Search with keyword and document index data: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1399917253843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3654_Navigate_to_document_workflow_Case_Manager_Dashboard_UI__New_Edis_Test_3_10__1_.coverage" NAME="3654 Navigate to document workflow Case Manager Dashboard UI: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1411399970113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation_when_inv_type_is_import_injury__New_Edis_Test_3_10__2_.coverage" NAME="Create investigation when inv type is import injury: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1412972995455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Advanced_search_with_keywords__New_Edis_Test_3_10__1_.coverage" NAME="Advanced search with keywords: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1396902962797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Add_investigation__New_Edis_Test_3_10__3_.coverage" NAME="Add investigation: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1412801279034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@manage_users.coverage" NAME="manage_users Coverage Results" MODIFIED="1391193960698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_inactive_cancelled_investigation_in_investigation_dashboard__New_Edis_Test_3_10__5_.coverage" NAME="Navigate to inactive/cancelled investigation in investigation dashboard: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1411699858616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Register_page__New_Edis_Test_3_10__3_.coverage" NAME="Register page: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1397245829354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@quick_search__New_Edis_Test_3_10__3_.coverage" NAME="quick search: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1399040848011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3653_Navigate_to_document_workflow__New_Edis_Test_3_10__2_.coverage" NAME="3653 Navigate to document workflow: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1410920734502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keywords_and_investigation_data__New_Edis_Test_3_10.coverage" NAME="Search with keywords and investigation data: New_Edis_Test_3.10 Coverage Results" MODIFIED="1419360696282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validating_going_back_to_find_investigation_page_from_results_page__New_Edis_Test_3_10__1_.coverage" NAME="validating going back to find investigation page from results page: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1412953231907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Register_page__New_Edis_Test_3_10.coverage" NAME="Register page: New_Edis_Test_3.10 Coverage Results" MODIFIED="1397236628688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_particular_case_manager__New_Edis_Test_3_10__2_.coverage" NAME="Navigate to particular case manager: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1411702167461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation__New_Edis_Test_3_10__1_.coverage" NAME="Create investigation: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1412954478385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_when_official_received_date_is_known__New_Edis_Test_3_10.coverage" NAME="Generate Document Filing Report when official received date is known: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412615094638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3654_Navigate_to_document_workflow__New_Edis_Test_3_10__1_.coverage" NAME="3654 Navigate to document workflow: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1410381555591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_search_an_Investigation__New_Edis_Test_3_10__2_.coverage" NAME="To search an Investigation: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1412013323082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Add_investigation__New_Edis_Test_3_10__4_.coverage" NAME="Add investigation: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1412802903750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_profile_page_information__New_Edis_Test_3_10__5_.coverage" NAME="save profile page information: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1395262284447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validate_selection_of_user_authorities_and_groups__New_Edis_Test_3_10__2_.coverage" NAME="validate selection of user authorities and groups: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1395767518452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keywords_and_investigation_data__New_Edis_Test_3_10__1_.coverage" NAME="Search with keywords and investigation data: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1413570208601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validating_going_back_to_find_investigation_page_from_results_page__New_Edis_Test_3_10.coverage" NAME="validating going back to find investigation page from results page: New_Edis_Test_3.10 Coverage Results" MODIFIED="1413569677194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_reindex_document__New_Edis_Test_3_10__1_.coverage" NAME="Navigate to reindex document: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1412019838330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation__New_Edis_Test_3_10.coverage" NAME="Create investigation: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412953933572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_search_an_Investigation__New_Edis_Test_3_10.coverage" NAME="To search an Investigation: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412011872322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_generate_a_processed_report__New_Edis_Test_3_10__1_.coverage" NAME="To generate a processed report: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1411882222502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@GOOOGLE__New_Edis_Test_3_10.coverage" NAME="GOOOGLE: New_Edis_Test_3.10 Coverage Results" MODIFIED="1391209498168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_document_data__New_Edis_Test_3_10__3_.coverage" NAME="Search with keyword and document data: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1413571594352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@quick_search__New_Edis_Test_3_10.coverage" NAME="quick search: New_Edis_Test_3.10 Coverage Results" MODIFIED="1400175776217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3654_validating_the_count__New_Edis_Test_3_10__4_.coverage" NAME="3654 validating the count: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1411751953584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Add_investigation__New_Edis_Test_3_10__5_.coverage" NAME="Add investigation: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1396473998660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_action__in_document_index_data_section__New_Edis_Test_3_10.coverage" NAME="Search with keyword and action  in document index data section: New_Edis_Test_3.10 Coverage Results" MODIFIED="1399931117322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3654_Navigate_to_document_workflow_Case_Manager_Dashboard_UI__New_Edis_Test_3_10__2_.coverage" NAME="3654 Navigate to document workflow Case Manager Dashboard UI: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1411401064670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_by_selecting_all_options__New_Edis_Test_3_10.coverage" NAME="Generate Document Filing Report by selecting all options: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412714457472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_action_apo_number_document_index_data_section__New_Edis_Test_3_10.coverage" NAME="Search with keyword and action apo number document index data section: New_Edis_Test_3.10 Coverage Results" MODIFIED="1403025615558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validating_going_back_to_home_page_from_results_page__New_Edis_Test_3_10.coverage" NAME="validating going back to home page from results page: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412886922095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation_when_inv_type_is_byrd_amendment__New_Edis_Test_3_10__1_.coverage" NAME="Create investigation when inv type is byrd amendment: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1412971324304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_when_report_is_required_for_particular_date__New_Edis_Test_3_10__3_.coverage" NAME="Generate Document Filing Report when report is required for particular date: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1411759041010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@document_processing_report__New_Edis_Test_3_10.coverage" NAME="document_processing_report: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412867345740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_particular_case_manager__New_Edis_Test_3_10__3_.coverage" NAME="Navigate to particular case manager: New_Edis_Test_3.10 (3) Coverage Results" MODIFIED="1411702383810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@register_page__New_Edis_Test_3_10.coverage" NAME="register_page: New_Edis_Test_3.10 Coverage Results" MODIFIED="1401829957565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_user_preferences_page__New_Edis_Test_3_10.coverage" NAME="Navigate to user preferences page: New_Edis_Test_3.10 Coverage Results" MODIFIED="1420498418121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_reindex_document__New_Edis_Test_3_10.coverage" NAME="Navigate to reindex document: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412019603537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@quick_search__New_Edis_Test_3_10__1_.coverage" NAME="quick search: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1400700171615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_action_action_request_number_document_index_data_section__New_Edis_Test_3_10__1_.coverage" NAME="Search with keyword and action action request number document index data section: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1403025698599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@manage_users__New_Edis_Test_3_10.coverage" NAME="manage_users: New_Edis_Test_3.10 Coverage Results" MODIFIED="1395413216927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3654_Navigate_to_document_workflow__New_Edis_Test_3_10.coverage" NAME="3654 Navigate to document workflow: New_Edis_Test_3.10 Coverage Results" MODIFIED="1410381120312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@account_status_tab__New_Edis_Test_3_10.coverage" NAME="account_status_tab: New_Edis_Test_3.10 Coverage Results" MODIFIED="1420059707957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_user_preferences_page__New_Edis_Test_3_10__2_.coverage" NAME="Navigate to user preferences page: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1400534465834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_manage_investigations_page_to_find_an_investigation__New_Edis_Test_3_10.coverage" NAME="Navigate to manage investigations page to find an investigation: New_Edis_Test_3.10 Coverage Results" MODIFIED="1419360644130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@advanced_search__New_Edis_Test_3_10.coverage" NAME="advanced_search: New_Edis_Test_3.10 Coverage Results" MODIFIED="1412010332804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_navigate_to_manage_users__New_Edis_Test_3_10.coverage" NAME="To navigate to manage users: New_Edis_Test_3.10 Coverage Results" MODIFIED="1392141161939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@I_navigate_to_one_of_the_saved_search__New_Edis_Test_3_10.coverage" NAME="I navigate to one of the saved search: New_Edis_Test_3.10 Coverage Results" MODIFIED="1398286461718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3653_Create_Document_Workflow_Homepage__New_Edis_Test_3_10.coverage" NAME="3653 Create Document Workflow Homepage: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411568143477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Create_investigation_when_inv_type_is_byrd_amendment__New_Edis_Test_3_10__2_.coverage" NAME="Create investigation when inv type is byrd amendment: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1412971422015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_when_report_is_required_for_particular_date__New_Edis_Test_3_10.coverage" NAME="Generate Document Filing Report when report is required for particular date: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411759070516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@3654_validating_the_count__New_Edis_Test_3_10.coverage" NAME="3654 validating the count: New_Edis_Test_3.10 Coverage Results" MODIFIED="1411703399580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_search_an_Investigation__New_Edis_Test_3_10__5_.coverage" NAME="To search an Investigation: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1396561305200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Generate_Document_Filing_Report_when_report_is_required_for_particular_date__New_Edis_Test_3_10__1_.coverage" NAME="Generate Document Filing Report when report is required for particular date: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1411759149648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@I_navigate_to_one_of_the_saved_search__New_Edis_Test_3_10__2_.coverage" NAME="I navigate to one of the saved search: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1398364360526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@To_save_investigation_info_additional_metadata__assignments__disposition__audit_tool__New_Edis_Test_3_10__2_.coverage" NAME="To save investigation info,additional metadata, assignments, disposition, audit tool: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1413410134482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_profile_page_information__New_Edis_Test_3_10__2_.coverage" NAME="save profile page information: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1395261264161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Navigate_to_investigation_dashboard__New_Edis_Test_3_10__1_.coverage" NAME="Navigate to investigation dashboard: New_Edis_Test_3.10 (1) Coverage Results" MODIFIED="1411622459072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_profile_page_information__New_Edis_Test_3_10__4_.coverage" NAME="save profile page information: New_Edis_Test_3.10 (4) Coverage Results" MODIFIED="1395262059678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Search_with_keyword_and_document_data__New_Edis_Test_3_10__5_.coverage" NAME="Search with keyword and document data: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1413574208596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@manage_user_advanced_search__New_Edis_Test_3_10__5_.coverage" NAME="manage user advanced search: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1395250282882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@save_current_search__New_Edis_Test_3_10__5_.coverage" NAME="save current search: New_Edis_Test_3.10 (5) Coverage Results" MODIFIED="1398284734747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@validate_selection_of_user_authorities_and_groups__New_Edis_Test_3_10.coverage" NAME="validate selection of user authorities and groups: New_Edis_Test_3.10 Coverage Results" MODIFIED="1420060399103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@manage_user_advanced_search__New_Edis_Test_3_10__2_.coverage" NAME="manage user advanced search: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1395249092939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+    <SUITE FILE_PATH="coverage/New_Edis_Test_3.10@Advanced_search_with_keywords__New_Edis_Test_3_10__2_.coverage" NAME="Advanced search with keywords: New_Edis_Test_3.10 (2) Coverage Results" MODIFIED="1396903364081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="New_Edis_Test_3.10" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExportTestResults" outputFolder="C:/EDIS_TEST/Ran_scripts_biweekly_maintainance_05-23-2014" userTempatePath="" />
+  <component name="FavoritesManager">
+    <favorites_list name="New_Edis_Test_3.10" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/features/help_page/help_documents_library.feature" />
+        <option value="$PROJECT_DIR$/features/help_page/edis_help_page.feature" />
+        <option value="$PROJECT_DIR$/features/help_page/whats_new.feature" />
+        <option value="$PROJECT_DIR$/features/manage_users/advanced_search.feature" />
+        <option value="$PROJECT_DIR$/features/manage_users/manage_users.feature" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/features/manage_users/authorities_tab.feature" />
+        <option value="$PROJECT_DIR$/features/manage_users/account_status_tab.feature" />
+        <option value="$PROJECT_DIR$/features/manage_users/profile_tab.feature" />
+        <option value="$PROJECT_DIR$/features/support/page_object/manage_users_page.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/manage_users_page.rb" />
+        <option value="$PROJECT_DIR$/features/manage_users/investigation_assignment.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/my_steps.rb" />
+        <option value="$PROJECT_DIR$/features/register_page/register_page.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/quick_search_page.rb.rb" />
+        <option value="$PROJECT_DIR$/features/support/page_object/quick_search.rb" />
+        <option value="$PROJECT_DIR$/features/quick_search/quick_search.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/quick_search_page.rb" />
+        <option value="$PROJECT_DIR$/features/support/hooks.rb" />
+        <option value="$PROJECT_DIR$/features/user_preferences/user_preferences.feature" />
+        <option value="$PROJECT_DIR$/features/support/page_object/account_info.rb" />
+        <option value="$PROJECT_DIR$/features/account_info/user_preferences.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/account_info.rb" />
+        <option value="$PROJECT_DIR$/features/support/page_object/edis_home_page.rb" />
+        <option value="$PROJECT_DIR$/features/search_page/save_current_search.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/edis_search_page.rb" />
+        <option value="$PROJECT_DIR$/features/report/document_processing_report.feature" />
+        <option value="$PROJECT_DIR$/features/report/document_filing_report.feature" />
+        <option value="$PROJECT_DIR$/features/admin/manage_users.feature" />
+        <option value="$PROJECT_DIR$/features/admin/reindex_documents/reindex_document.feature" />
+        <option value="$PROJECT_DIR$/features/support/page_object/report_page.rb" />
+        <option value="$PROJECT_DIR$/features/support/page_object/edis_submission_page.rb" />
+        <option value="$PROJECT_DIR$/features/report/apo_investigation_report.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/report_steps.rb" />
+        <option value="$PROJECT_DIR$/features/admin/manage_users/investigation_assignment.feature" />
+        <option value="$PROJECT_DIR$/features/search_page/investigation_search.feature" />
+        <option value="$PROJECT_DIR$/features/case_management/manage_investigations.feature" />
+        <option value="$PROJECT_DIR$/features/support/page_object/edis_search_page.rb" />
+        <option value="$PROJECT_DIR$/features/search_page/advanced_search.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/edis_home_steps.rb.rb" />
+        <option value="$PROJECT_DIR$/features/admin/manage_users/manage_users.feature" />
+        <option value="$PROJECT_DIR$/features/case_management/document_workflow.feature" />
+        <option value="$PROJECT_DIR$/features/submission/submission_page.feature" />
+        <option value="$PROJECT_DIR$/features/home_page/edis_home_page.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/admin_steps.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/edis_search_steps.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/edis_submission_steps.rb" />
+        <option value="$PROJECT_DIR$/features/support/page_object/admin_page.rb" />
+        <option value="$PROJECT_DIR$/features/case_management/create_investigation.feature" />
+        <option value="$PROJECT_DIR$/features/support/page_object/case_management_page.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/case_management_steps.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="New_Edis_Test_3.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="vcs.Subversion" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesGherkin" value="false" />
+    <property name="LayoutCode.rearrangeEntriesRuby" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Project_svn\New_Edis_Test_3.10\features\admin" />
+      <recent name="C:\Project_svn\New_Edis_Test_3.10\features\support" />
+      <recent name="C:\Project_svn\New_Edis_Test_3.10\features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber.create_investigation: New_Edis_Test_3.10">
+    <configuration default="false" name="submission_page: New_Edis_Test_3.10" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="New_Edis_Test_3.10" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/submission/submission_page.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="user_preferences: New_Edis_Test_3.10" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="New_Edis_Test_3.10" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/account_info/user_preferences.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="create_investigation: New_Edis_Test_3.10" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="New_Edis_Test_3.10" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/case_management/create_investigation.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Navigate to user preferences page: New_Edis_Test_3.10" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="New_Edis_Test_3.10" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/case_management/create_investigation.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Navigate to user preferences page$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="edis_home_page: New_Edis_Test_3.10" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="New_Edis_Test_3.10" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/home_page/edis_home_page.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Cucumber.submission_page: New_Edis_Test_3.10" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber.user_preferences: New_Edis_Test_3.10" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber.create_investigation: New_Edis_Test_3.10" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber.Navigate to user preferences page: New_Edis_Test_3.10" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber.edis_home_page: New_Edis_Test_3.10" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.edis_home_page: New_Edis_Test_3.10" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.Navigate to user preferences page: New_Edis_Test_3.10" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.create_investigation: New_Edis_Test_3.10" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.user_preferences: New_Edis_Test_3.10" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.submission_page: New_Edis_Test_3.10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing" cleanupOnStartRun="true">
+    <configuration>C:\Users\daniel.orr\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9547728f-488e-49d3-8620-718459690e7d" name="Default" comment="" />
+      <created>1383316421252</created>
+      <updated>1383316421252</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1040" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988358" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32707354" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44003177" sideWeight="0.50405407" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41115436" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3216602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32394367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37153652" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988358" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3255086" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41115436" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37153652" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858992" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24357034" sideWeight="0.50405407" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3255086" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+</project>
+
